@@ -1,0 +1,5 @@
+https://blog.knoldus.com/2018/03/29/git-cheat-sheet-basics/
+
+https://nvie.com/posts/a-successful-git-branching-model/?
+
+https://git-scm.com
